@@ -24,7 +24,9 @@ Various things to look at and use.
 * MB2 Discovery Book: <https://docs.rust-embedded.org/discovery-mb2>
 * MB2 tech: <https://docs.rs/microbit-v2/latest/microbit>
 * nRF52833 book: <https://infocenter.nordicsemi.com/pdf/nRF52833_OPS_v0.7.pdf>
+* nostd: <https://github.com/pdx-cs-rust-embedded/nostd-rs>
 * Blinky: <https://github.com/BartMassey/an-inordinate-display>
+* Wukong: <https://github.com/BartMassey/bare-beyond-blinky>
 
 ### Other Relevancies
 

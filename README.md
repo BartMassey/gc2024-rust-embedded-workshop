@@ -11,7 +11,7 @@ Book provided by the Rust Embedded WG.
 ## Getting this repo
 
     git clone --recurse-submodules \
-        https://github.com/BartMassey/gc2024-rust-embedded-workshop
+      https://github.com/BartMassey/gc2024-rust-embedded-workshop
 
 ## Schedule
 
@@ -28,10 +28,9 @@ Various things to look at and use.
 * This repo: <https://github.com/BartMassey/gc2024-rust-embedded-workshop>
 * MB2 Discovery Book: <https://docs.rust-embedded.org/discovery-mb2>
 * MB2 tech: <https://docs.rs/microbit-v2/latest/microbit>
-* nRF52833 book: <https://infocenter.nordicsemi.com/pdf/nRF52833_OPS_v0.7.pdf>
+* nRF52833 book: <https://docs.nordicsemi.com/bundle/ps_nrf52833/page/keyfeatures_html5.html>
 * nostd: <https://github.com/pdx-cs-rust-embedded/nostd-rs>
 * Blinky: <https://github.com/BartMassey/an-inordinate-display>
-* Wukong: <https://github.com/BartMassey/bare-beyond-blinky>
 
 ### Other Relevancies
 
@@ -40,4 +39,5 @@ Various things to look at and use.
 * Ferrous Systems slides: <https://rust-training.ferrous-systems.com>
 * My Pre-release book: <https://pdx-cs-rust-embedded.github.io/course-notes>
 * My course code: <https://github.com/pdx-cs-rust-embedded>
+* Wukong: <https://github.com/BartMassey/bare-beyond-blinky>
 

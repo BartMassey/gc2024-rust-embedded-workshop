@@ -8,11 +8,16 @@ We will be playing with writing "bare-metal" code for the
 BBC micro:bit v2 (MB2), the board used by the latest Discovery
 Book provided by the Rust Embedded WG.
 
+## Getting this repo
+
+    git clone --recurse-submodules \
+        https://github.com/BartMassey/gc2024-rust-embedded-workshop
+
 ## Schedule
 
 * Hour 1: Talk about embedded stuff, set up hardware, big Blinky action
 * Hour 2: Buttons, fancy LEDs, nRF peripherals, maybe sound
-* Hour 3-4: Group demo building, lab time
+* Hour 3: Group demo building, lab time
 
 ## Resources
 

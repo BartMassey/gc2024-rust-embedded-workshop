@@ -7,3 +7,6 @@
 [submodule "bare-beyond-blinky"]
 	path = bare-beyond-blinky
 	url = https://github.com/BartMassey/bare-beyond-blinky
+[submodule "discovery-mb2"]
+	path = discovery-mb2
+	url = https://github.com/rust-embedded/discovery-mb2

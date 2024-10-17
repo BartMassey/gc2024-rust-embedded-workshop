@@ -1,0 +1,9 @@
+[submodule "nostd-rs"]
+	path = nostd-rs
+	url = https://github.com/pdx-cs-rust-embedded/nostd-rs
+[submodule "an-inordinate-display"]
+	path = an-inordinate-display
+	url = https://github.com/BartMassey/an-inordinate-display
+[submodule "bare-beyond-blinky"]
+	path = bare-beyond-blinky
+	url = https://github.com/BartMassey/bare-beyond-blinky

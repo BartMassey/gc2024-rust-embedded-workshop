@@ -49,3 +49,8 @@ Various things to look at and use.
 
 * HAL: <https://docs.rs/nrf52833-hal/latest/nrf52833_hal>
 * BSP: <https://docs.rs/microbit-v2/latest/microbit>
+
+### Support
+
+* Rust Embedded WG: <https://github.com/rust-embedded>
+* Matrix: <https://matrix.to/#/#rust-embedded:matrix.org>

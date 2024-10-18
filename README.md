@@ -36,10 +36,16 @@ Various things to look at and use.
 
 ### Other Relevancies
 
-* Comprehensive Rust Bare Metal: <https://google.github.io/comprehensive-rust/bare-metal.html>
+* Comprehensive Rust Bare Metal:
+  * English: <https://google.github.io/comprehensive-rust/bare-metal.html>
+  * Chinese: <https://google.github.io/comprehensive-rust/zh-CN/bare-metal.html>
 * My course notes: <https://github.com/pdx-cs-rust-embedded/course-notes-old>
 * Ferrous Systems slides: <https://rust-training.ferrous-systems.com>
 * My Pre-release book: <https://pdx-cs-rust-embedded.github.io/course-notes>
 * My course code: <https://github.com/pdx-cs-rust-embedded>
 * Wukong: <https://github.com/BartMassey/bare-beyond-blinky>
 
+### Some Rustdoc
+
+* HAL: <https://docs.rs/nrf52833-hal/latest/nrf52833_hal>
+* BSP: <https://docs.rs/microbit-v2/latest/microbit>

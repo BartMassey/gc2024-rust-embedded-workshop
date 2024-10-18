@@ -26,7 +26,9 @@ Various things to look at and use.
 ### Getting Started
 
 * This repo: <https://github.com/BartMassey/gc2024-rust-embedded-workshop>
-* MB2 Discovery Book: <https://docs.rust-embedded.org/discovery-mb2>
+* MB2 Discovery Book
+  * English: <https://docs.rust-embedded.org/discovery-mb2>
+  * Chinese (older): <https://jzow.github.io/discovery/microbit>
 * MB2 tech: <https://docs.rs/microbit-v2/latest/microbit>
 * nRF52833 book: <https://docs.nordicsemi.com/bundle/ps_nrf52833/page/keyfeatures_html5.html>
 * nostd: <https://github.com/pdx-cs-rust-embedded/nostd-rs>
